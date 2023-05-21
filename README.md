@@ -41,11 +41,6 @@ Contributions:
 
 Contributions to this project are welcomed. If you want to add or modify any feature, feel free to open an issue or submit a PR.
 
-
-License:
-
-This project is licensed under the MIT license. For more details, please refer to the LICENSE file.
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Descrição em Português:
@@ -86,8 +81,3 @@ Você também pode testar a API usando qualquer cliente HTTP, como o Postman.
 Contribuições:
 
 Contribuições para este projeto são bem-vindas. Se você deseja adicionar ou modificar algum recurso, sinta-se à vontade.
-
-
-Licença:
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
