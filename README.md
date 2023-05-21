@@ -2,7 +2,7 @@
 
 ContosoPizza API
 
-English
+English:
 This project is a web API developed with ASP.NET Core. The primary function of the API is to manipulate data for pizzas in a fictitious "ContosoPizza" application. 
 It provides CRUD (Create, Read, Update, Delete) operations on a set of pizza data.
 
@@ -36,7 +36,7 @@ License
 This project is licensed under the MIT license. For more details, please refer to the LICENSE file.
 
 
-Português
+Português:
 Este projeto é uma API Web desenvolvida com ASP.NET Core. A principal função da API é manipular dados de pizzas em uma aplicação fictícia chamada "ContosoPizza". 
 Ela fornece operações CRUD (Criar, Ler, Atualizar, Deletar) em um conjunto de dados de pizzas.
 
