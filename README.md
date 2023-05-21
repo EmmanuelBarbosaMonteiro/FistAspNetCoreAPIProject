@@ -36,6 +36,7 @@ Contributions to this project are welcomed. If you want to add or modify any fea
 License
 This project is licensed under the MIT license. For more details, please refer to the LICENSE file.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Português:
 
